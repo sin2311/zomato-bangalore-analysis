@@ -12,8 +12,8 @@ This repository contains my submission for the **Innomatics Zomato Restaurant Ha
 - `zomato_data.csv` & `Geographical Coordinates.csv`: Datasets used
 
 ## 🗺️ Preview Maps
-- Italian Restaurants Map 👉 `italian_restaurants_map.html`
-- Restaurant Density Map 👉 `restaurant_density_map.html`
+- Italian Restaurants Map 👉 `"C:\Users\ssindhu\italian_restaurants_map.html"`
+- Restaurant Density Map 👉 `"C:\Users\ssindhu\restaurant_map.html"`
 
 ## 💡 Insights
 - Conducted EDA to identify trends in ratings, cuisines, and locations.
