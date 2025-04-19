@@ -21,4 +21,4 @@ This repository contains my submission for the **Innomatics Zomato Restaurant Ha
 - Cleaned and merged datasets for accurate mapping.
 
 ## 🔗 Submission Info
-Prepared by **Sindhu** for the Innomatics Hackathon (April 19, 2025).
+Prepared by **Sindhu** for the Innomatics Hackathon (April 19, 2025)
